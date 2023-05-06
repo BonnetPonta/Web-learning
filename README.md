@@ -17,9 +17,13 @@ C,C++,Java,PHP,JavaScript,HTML,MySQL
 - [初心者のためのポイント学習C言語](http://www9.plala.or.jp/sgwr-t/)  
 古めのサイト
 
-## 参考ブログ
-- https://www.sejuku.net/blog/4791
-- https://muusannitizyou.jp/c-free-study-site/
+
+## Go言語
+- [公式チュートリアル](https://go-tour-jp.appspot.com/welcome/1)
+
+
+## 株
+- [楽天証券](https://www.rakuten-sec.co.jp/web/domestic/special/beginner/)
 
 
 ## 備考
