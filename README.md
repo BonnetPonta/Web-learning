@@ -13,3 +13,8 @@
 ## 参考ブログ
 - https://www.sejuku.net/blog/4791
 - https://muusannitizyou.jp/c-free-study-site/
+
+
+## 備考
+- [IDE Eclipse](https://mergedoc.osdn.jp/)
+- [Cコンパイラ MinGW](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/)
